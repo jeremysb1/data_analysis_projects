@@ -1,2 +1,3 @@
-# data_analysis_projects
-A collection of real-world data analysis projects
+# Data Analysis Projects
+
+A collection of data analysis projects businesses encounter.
